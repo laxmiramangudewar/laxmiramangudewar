@@ -13,8 +13,8 @@
 
 ---
 
-- 🔭 I’m currently working on **Machine Learning Projects**
-- 🌱 I’m currently learning **Computer Vision and Natural Language Processing (NLP)**
+- 💻 I’m currently working on **Machine Learning Projects**
+- 🔭 I’m working on research in **Computer Vision and Natural Language Processing (NLP)**
 - 💬 Ask me about **Python, Machine Learning, Data Analysis, and SCADA Systems**
 - 📫 Reach me at **laxmiramangudewar@gmail.com**
 
