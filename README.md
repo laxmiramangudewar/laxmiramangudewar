@@ -16,7 +16,7 @@
 ---
 
 - 💻 I’m currently working on **Machine Learning Projects**
-- 🔭 Advancing research in **Computer Vision and Natural Language Processing (NLP)**
+- 🔭 Advancing research in **Computer Vision and Data Processing **
 - 💬 Ask me about **Python, Machine Learning, Data Analysis, and SCADA Systems**
 - 📫 Reach me at **laxmiramangudewar@gmail.com**
 
