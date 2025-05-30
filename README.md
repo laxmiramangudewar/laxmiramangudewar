@@ -13,7 +13,7 @@
   </a>
 </p>
 
----
+-------
 
 - 💻 I’m currently working on **Machine Learning Projects**
 - 🔭 Advancing research in **Computer Vision and Data Processing **
