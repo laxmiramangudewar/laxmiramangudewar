@@ -16,7 +16,7 @@
 ---
 
 - 💻 I’m currently working on **Machine Learning Projects**
-- 🔭 Advancing research in **Computer Vision and Data Processing **
+- 🔭 Advancing research in **Computer Vision and Data Processing**
 - 💬 Let's talk about **Data, Machines and Systems**
 - 📫 Reach me at **laxmiramangudewar@gmail.com**
 
