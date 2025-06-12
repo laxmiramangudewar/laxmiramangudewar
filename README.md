@@ -12,6 +12,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=laxmiramangudewar&theme=algolia" alt="GitHub Trophy" />
   </a>
 </p>
+
 ---
 
 - 💻 I’m currently working on **Machine Learning Projects**
