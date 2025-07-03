@@ -7,14 +7,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=laxmiramangudewar&theme=algolia" alt="GitHub Trophy" />
-  </a>
-</p>
-
----
-
 - 💻 I’m currently working on **Machine Learning Projects**
 - 🔭 Advancing research in **Computer Vision and Data Processing**
 - 💬 Let's talk about **Data, Machines and Systems**
