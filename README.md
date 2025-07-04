@@ -8,7 +8,7 @@
 ---
 
 - 💻 I’m currently working on **Machine Learning Projects**
-- 🔭 Advancing research in **CComputer Vision; Explainable AI; Reinforcement Learning; NLP; Adversarial Security in ML**
+- 🔭 Advancing research in **CComputer Vision | Explainable AI | Reinforcement Learning | NLP | Adversarial Security in ML**
 - 💬 Let's talk about **Data, Machines and Systems**
 - 📫 Reach me at **laxmiramangudewar@gmail.com**
 
