@@ -9,7 +9,7 @@
 
 - 💻 I’m currently working on **Machine Learning Projects**
 - 🔭 Advancing research in **Artifical Intelligence**
-- 💬 Let's talk about **Data, Machines and Systems**
+- 💬 Let's talk about **Data, Science and Systems**
 - 📫 Reach me at **laxmiramangudewar@gmail.com**
 
 ---
