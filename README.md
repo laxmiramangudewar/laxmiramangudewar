@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about Data Science and Artificial Intelligence</h3>
 
 ---
-
+Maine na jana
 - 💻 I’m currently working on **Artifical Intelligence Projects**
 - 🔭 Advancing research in **Machine Learning**
 - 💬 Let's talk about **Data, Science and Systems**
