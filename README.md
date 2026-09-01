@@ -8,8 +8,6 @@
 - 💬 Let's talk about **Data, Science and Systems**
 - 📫 Reach me at **laxmiramangudewar@gmail.com**
 
-
-
 ---
 
 <h3 align="left">Connect with me:</h3>
