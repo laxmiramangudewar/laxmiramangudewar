@@ -3,8 +3,6 @@
 
 ---
 
-
-
 - 💻 I’m currently working on **Artifical Intelligence Projects**
 - 🔭 Advancing research in **Machine Learning**
 - 💬 Let's talk about **Data, Science and Systems**
