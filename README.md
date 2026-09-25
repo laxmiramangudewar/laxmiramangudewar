@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laxmiraman Gudewar</h1>
 <h3 align="center">Passionate about Data Science and Artificial Intelligence</h3>
 
----
+---uiopuiop
 
 - 💻 I’m currently working on **Artifical Intelligence Projects**
 - 🔭 Advancing research in **Machine Learning**
