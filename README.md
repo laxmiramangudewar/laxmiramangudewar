@@ -3,7 +3,7 @@
 
 ---
 
-- 💻 I’m currently working on **Artifical Intelligence Projects**
+- 💻 I’m currently working on **Artifical Intelligence Psdsssrojects**
 - 🔭 Advancing research in **Machine Learning**
 - 💬 Let's talk about **Data, Science and Systems**
 - 📫 Reach me at **laxmiramangudewar@gmail.com**
